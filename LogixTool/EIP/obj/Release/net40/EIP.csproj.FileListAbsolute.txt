@@ -14,3 +14,10 @@ D:\C# Projects\Repository\LogixTool\LogixTool\EIP\obj\Release\net40\EIP.Assembly
 D:\C# Projects\Repository\LogixTool\LogixTool\EIP\obj\Release\net40\EIP.csproj.CoreCompileInputs.cache
 D:\C# Projects\Repository\LogixTool\LogixTool\EIP\obj\Release\net40\EIP.dll
 D:\C# Projects\Repository\LogixTool\LogixTool\EIP\obj\Release\net40\EIP.pdb
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\bin\Release\net40\EIP.dll
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\bin\Release\net40\EIP.pdb
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\obj\Release\net40\EIP.AssemblyInfoInputs.cache
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\obj\Release\net40\EIP.AssemblyInfo.cs
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\obj\Release\net40\EIP.csproj.CoreCompileInputs.cache
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\obj\Release\net40\EIP.dll
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\obj\Release\net40\EIP.pdb

@@ -16,3 +16,11 @@ D:\C# Projects\Repository\LogixTool\LogixTool\EIP\obj\Release\netstandard2.0\EIP
 D:\C# Projects\Repository\LogixTool\LogixTool\EIP\obj\Release\netstandard2.0\EIP.csproj.CoreCompileInputs.cache
 D:\C# Projects\Repository\LogixTool\LogixTool\EIP\obj\Release\netstandard2.0\EIP.dll
 D:\C# Projects\Repository\LogixTool\LogixTool\EIP\obj\Release\netstandard2.0\EIP.pdb
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\bin\Release\netstandard2.0\EIP.deps.json
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\bin\Release\netstandard2.0\EIP.dll
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\bin\Release\netstandard2.0\EIP.pdb
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\obj\Release\netstandard2.0\EIP.AssemblyInfoInputs.cache
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\obj\Release\netstandard2.0\EIP.AssemblyInfo.cs
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\obj\Release\netstandard2.0\EIP.csproj.CoreCompileInputs.cache
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\obj\Release\netstandard2.0\EIP.dll
+C:\fontes\csharp\servidores\LogixTool\LogixTool\EIP\obj\Release\netstandard2.0\EIP.pdb

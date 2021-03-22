@@ -184,7 +184,7 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\mikeav\\.nuget\\packages\\": {},
+    "C:\\Users\\foliveira\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {},
     "C:\\Program Files (x86)\\Microsoft\\Xamarin\\NuGet\\": {},
     "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder": {}
@@ -192,11 +192,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\C# Projects\\Repository\\LogixTool\\LogixTool\\EIP\\EIP.csproj",
+      "projectUniqueName": "C:\\fontes\\csharp\\servidores\\LogixTool\\LogixTool\\EIP\\EIP.csproj",
       "projectName": "EIP",
-      "projectPath": "D:\\C# Projects\\Repository\\LogixTool\\LogixTool\\EIP\\EIP.csproj",
-      "packagesPath": "C:\\Users\\mikeav\\.nuget\\packages\\",
-      "outputPath": "D:\\C# Projects\\Repository\\LogixTool\\LogixTool\\EIP\\obj\\",
+      "projectPath": "C:\\fontes\\csharp\\servidores\\LogixTool\\LogixTool\\EIP\\EIP.csproj",
+      "packagesPath": "C:\\Users\\foliveira\\.nuget\\packages\\",
+      "outputPath": "C:\\fontes\\csharp\\servidores\\LogixTool\\LogixTool\\EIP\\obj\\",
       "projectStyle": "PackageReference",
       "crossTargeting": true,
       "fallbackFolders": [
@@ -205,7 +205,9 @@
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"
       ],
       "configFilePaths": [
-        "C:\\Users\\mikeav\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\fontes\\csharp\\NuGet.Config",
+        "C:\\Users\\foliveira\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Program Files (x86)\\NuGet\\Config\\DevExpress 20.1.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Xamarin.Offline.config"
@@ -216,7 +218,10 @@
         "netstandard2.0"
       ],
       "sources": {
+        "C:\\Program Files (x86)\\DevExpress 20.1\\Components\\System\\Components\\Packages": {},
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
+        "C:\\Simples_EXE\\Nuget.Homologacao": {},
+        "\\\\jupiter\\SimplesSistema\\NuGet.Morelli": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
